@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @al-saka (Ahmed Al Saka)
+- 👋 Hi, I’m @al-saka ( Ahmed Al Saka )
 - 👀 I’m interested in ... ( MERN STACK WEB DEVELOPER )
-- 🌱 I’m currently learning ... JavaScript , Node.Js , React.Js
+- 🌱 I’m currently learning ... ( JavaScript , Node.Js , React.Js )
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Direct Messages
 - 😄 Pronouns: ...
